@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -176,7 +176,6 @@
 				74FF745BFFE16C5A3816A748 /* Pods-Base CampTests.debug.xcconfig */,
 				54071B1CEE4875F69F4C36CF /* Pods-Base CampTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -609,7 +608,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Base Camp/Preview Content\"";
-				DEVELOPMENT_TEAM = 9KFRK5K6W8;
+				DEVELOPMENT_TEAM = D3N5ZHFL32;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Base Camp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -632,7 +631,7 @@
 				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Base Camp/Preview Content\"";
-				DEVELOPMENT_TEAM = 9KFRK5K6W8;
+				DEVELOPMENT_TEAM = D3N5ZHFL32;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Base Camp/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
