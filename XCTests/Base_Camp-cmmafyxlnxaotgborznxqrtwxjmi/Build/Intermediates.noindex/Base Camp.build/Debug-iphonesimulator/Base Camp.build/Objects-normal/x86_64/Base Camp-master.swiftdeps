@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "b34be8a1e17e6ab95c0cb6bba89b6137"
+build_time: [1588002834, 387459000]
+inputs:
+  "/Users/Mac/XCode/Base Camp/Base Camp/Base Camp/AppDelegate.swift": [1588002760, 886050171]
+  "/Users/Mac/XCode/Base Camp/Base Camp/Base Camp/SceneDelegate.swift": [1588002760, 894138755]
+  "/Users/Mac/XCode/Base Camp/Base Camp/Base Camp/ContentView.swift": [1588002760, 896424606]

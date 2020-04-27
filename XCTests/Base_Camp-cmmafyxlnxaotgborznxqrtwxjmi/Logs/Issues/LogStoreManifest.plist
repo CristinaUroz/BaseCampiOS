@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>426D7143-454E-42DB-8263-3C00363315B7</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>426D7143-454E-42DB-8263-3C00363315B7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Base_Camp-cmmafyxlnxaotgborznxqrtwxjmi</string>
+			<key>timeStartedRecording</key>
+			<real>609697983.81336796</real>
+			<key>timeStoppedRecording</key>
+			<real>609697983.81368399</real>
+			<key>title</key>
+			<string>Build target Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>426D7143-454E-42DB-8263-3C00363315B7</string>
+		</dict>
+		<key>8D00683F-171D-43F1-8D4B-722EB310F4FB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.bundle</string>
+			<key>fileName</key>
+			<string>8D00683F-171D-43F1-8D4B-722EB310F4FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Base_CampUITests-cmmafyxlnxaotgborznxqrtwxjmi</string>
+			<key>timeStartedRecording</key>
+			<real>609697983.81378198</real>
+			<key>timeStoppedRecording</key>
+			<real>609697983.814116</real>
+			<key>title</key>
+			<string>Build target Base CampUITests</string>
+			<key>uniqueIdentifier</key>
+			<string>8D00683F-171D-43F1-8D4B-722EB310F4FB</string>
+		</dict>
+		<key>96DCB685-80D4-43C4-8B62-97231906E9A9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.bundle</string>
+			<key>fileName</key>
+			<string>96DCB685-80D4-43C4-8B62-97231906E9A9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Base_CampTests-cmmafyxlnxaotgborznxqrtwxjmi</string>
+			<key>timeStartedRecording</key>
+			<real>609697845.63458502</real>
+			<key>timeStoppedRecording</key>
+			<real>609697845.82033503</real>
+			<key>title</key>
+			<string>Build target Base CampTests</string>
+			<key>uniqueIdentifier</key>
+			<string>96DCB685-80D4-43C4-8B62-97231906E9A9</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

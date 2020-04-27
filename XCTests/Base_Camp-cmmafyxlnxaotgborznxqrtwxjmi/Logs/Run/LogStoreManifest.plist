@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7254AB25-CF30-4CFB-A1D9-995A967D0AD9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7254AB25-CF30-4CFB-A1D9-995A967D0AD9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609696282.81203306</real>
+			<key>timeStoppedRecording</key>
+			<real>609696330.47814798</real>
+			<key>title</key>
+			<string>Run Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>7254AB25-CF30-4CFB-A1D9-995A967D0AD9</string>
+		</dict>
+		<key>81AB43CE-01F1-4F55-9137-C756EDC32774</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>81AB43CE-01F1-4F55-9137-C756EDC32774.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697820.43298995</real>
+			<key>timeStoppedRecording</key>
+			<real>609698052.12631702</real>
+			<key>title</key>
+			<string>Run Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>81AB43CE-01F1-4F55-9137-C756EDC32774</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

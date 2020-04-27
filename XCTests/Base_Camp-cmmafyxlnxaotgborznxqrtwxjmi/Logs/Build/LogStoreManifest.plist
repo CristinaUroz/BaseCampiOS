@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>160D56B1-5281-4EF6-9C2B-1C8F5AD19045</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>160D56B1-5281-4EF6-9C2B-1C8F5AD19045.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697819.696612</real>
+			<key>timeStoppedRecording</key>
+			<real>609697820.42579603</real>
+			<key>title</key>
+			<string>Build Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>160D56B1-5281-4EF6-9C2B-1C8F5AD19045</string>
+		</dict>
+		<key>7818ADBA-064F-4A91-B9AB-48B41909F9F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7818ADBA-064F-4A91-B9AB-48B41909F9F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697856.69904101</real>
+			<key>timeStoppedRecording</key>
+			<real>609697858.753829</real>
+			<key>title</key>
+			<string>Build Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>7818ADBA-064F-4A91-B9AB-48B41909F9F5</string>
+		</dict>
+		<key>B35E97A4-D426-4E30-9CAE-8077AF6238D8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B35E97A4-D426-4E30-9CAE-8077AF6238D8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697845.27933896</real>
+			<key>timeStoppedRecording</key>
+			<real>609697845.86538398</real>
+			<key>title</key>
+			<string>Build Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>B35E97A4-D426-4E30-9CAE-8077AF6238D8</string>
+		</dict>
+		<key>C59DB6DC-A742-4D77-BA72-1C1BB5DB36F5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C59DB6DC-A742-4D77-BA72-1C1BB5DB36F5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697983.74928701</real>
+			<key>timeStoppedRecording</key>
+			<real>609697983.81626296</real>
+			<key>title</key>
+			<string>Build Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>C59DB6DC-A742-4D77-BA72-1C1BB5DB36F5</string>
+		</dict>
+		<key>CF70B6A8-C0E9-4383-86D8-5E45A1210C27</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CF70B6A8-C0E9-4383-86D8-5E45A1210C27.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697622.39281702</real>
+			<key>timeStoppedRecording</key>
+			<real>609697623.14133203</real>
+			<key>title</key>
+			<string>Build Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>CF70B6A8-C0E9-4383-86D8-5E45A1210C27</string>
+		</dict>
+		<key>F9CECE7E-0968-4AF0-95A5-213C9D5E8712</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F9CECE7E-0968-4AF0-95A5-213C9D5E8712.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Base Camp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Base Camp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Base Camp</string>
+			<key>timeStartedRecording</key>
+			<real>609697365.90620601</real>
+			<key>timeStoppedRecording</key>
+			<real>609697367.71791196</real>
+			<key>title</key>
+			<string>Build Base Camp</string>
+			<key>uniqueIdentifier</key>
+			<string>F9CECE7E-0968-4AF0-95A5-213C9D5E8712</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

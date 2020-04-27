@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "28fbe8274efbaa1d481c3da109e43f1f"
+build_time: [1588004822, 703553000]
+inputs:
+  "/Users/Mac/XCode/Base Camp/Base Camp/Base CampTests/Base_CampTests.swift": [1588002761, 926594989]

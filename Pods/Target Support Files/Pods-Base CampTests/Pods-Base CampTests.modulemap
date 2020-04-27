@@ -1,0 +1,6 @@
+framework module Pods_Base_CampTests {
+  umbrella header "Pods-Base CampTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
